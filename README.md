@@ -188,4 +188,5 @@ To run this bot we recommend you a cloud instance with a minimum of:
 - [virtualenv](https://virtualenv.pypa.io/en/stable/installation.html) (Recommended)
 - [Docker](https://www.docker.com/products/docker) (Recommended)
 #   e t h e r b o t  
+ #   e t h _ t r a d i n g _ b o t  
  
